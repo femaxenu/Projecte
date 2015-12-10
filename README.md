@@ -1,2 +1,0 @@
-# Projecte
-informacio del fitxer
